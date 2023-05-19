@@ -8,11 +8,11 @@ class loop_practice:
         pass
 
     def simple_while_loop(self, input_num):
-        # 用while loop, 重複input_num的次數 由0開始, return 加總 ex. input_num=3, sum=0+1+2=2
+        # 用while loop, 重複input_num的次數 由0開始, return 加總 ex. input_num=3, sum=0+1+2=3
         ...
 
     def simple_for_loop(self, input_num):
-        # 用for loop, 重複input_num的次數 由0開始, return 加總 ex. input_num=3, sum=0+1+2=2
+        # 用for loop, 重複input_num的次數 由0開始, return 加總 ex. input_num=3, sum=0+1+2=3
         ...
 
     def list_for_loop(self, input_list):
